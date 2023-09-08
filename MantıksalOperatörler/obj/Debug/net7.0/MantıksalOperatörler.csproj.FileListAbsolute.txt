@@ -1,0 +1,14 @@
+C:\Users\DELL\Desktop\C#\uygulamasolution\MantıksalOperatörler\bin\Debug\net7.0\MantıksalOperatörler.exe
+C:\Users\DELL\Desktop\C#\uygulamasolution\MantıksalOperatörler\bin\Debug\net7.0\MantıksalOperatörler.deps.json
+C:\Users\DELL\Desktop\C#\uygulamasolution\MantıksalOperatörler\bin\Debug\net7.0\MantıksalOperatörler.runtimeconfig.json
+C:\Users\DELL\Desktop\C#\uygulamasolution\MantıksalOperatörler\bin\Debug\net7.0\MantıksalOperatörler.dll
+C:\Users\DELL\Desktop\C#\uygulamasolution\MantıksalOperatörler\bin\Debug\net7.0\MantıksalOperatörler.pdb
+C:\Users\DELL\Desktop\C#\uygulamasolution\MantıksalOperatörler\obj\Debug\net7.0\MantıksalOperatörler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\C#\uygulamasolution\MantıksalOperatörler\obj\Debug\net7.0\MantıksalOperatörler.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\C#\uygulamasolution\MantıksalOperatörler\obj\Debug\net7.0\MantıksalOperatörler.AssemblyInfo.cs
+C:\Users\DELL\Desktop\C#\uygulamasolution\MantıksalOperatörler\obj\Debug\net7.0\MantıksalOperatörler.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\C#\uygulamasolution\MantıksalOperatörler\obj\Debug\net7.0\MantıksalOperatörler.dll
+C:\Users\DELL\Desktop\C#\uygulamasolution\MantıksalOperatörler\obj\Debug\net7.0\refint\MantıksalOperatörler.dll
+C:\Users\DELL\Desktop\C#\uygulamasolution\MantıksalOperatörler\obj\Debug\net7.0\MantıksalOperatörler.pdb
+C:\Users\DELL\Desktop\C#\uygulamasolution\MantıksalOperatörler\obj\Debug\net7.0\MantıksalOperatörler.genruntimeconfig.cache
+C:\Users\DELL\Desktop\C#\uygulamasolution\MantıksalOperatörler\obj\Debug\net7.0\ref\MantıksalOperatörler.dll

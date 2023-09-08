@@ -1,0 +1,14 @@
+C:\Users\DELL\Desktop\C#\degiskenler\bin\Debug\degiskenler.exe.config
+C:\Users\DELL\Desktop\C#\degiskenler\bin\Debug\degiskenler.exe
+C:\Users\DELL\Desktop\C#\degiskenler\bin\Debug\degiskenler.pdb
+C:\Users\DELL\Desktop\C#\degiskenler\obj\Debug\degiskenler.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\C#\degiskenler\obj\Debug\degiskenler.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\C#\degiskenler\obj\Debug\degiskenler.exe
+C:\Users\DELL\Desktop\C#\degiskenler\obj\Debug\degiskenler.pdb
+C:\Users\DELL\Desktop\C#\uygulamasolution\degiskenler\bin\Debug\degiskenler.exe.config
+C:\Users\DELL\Desktop\C#\uygulamasolution\degiskenler\bin\Debug\degiskenler.exe
+C:\Users\DELL\Desktop\C#\uygulamasolution\degiskenler\bin\Debug\degiskenler.pdb
+C:\Users\DELL\Desktop\C#\uygulamasolution\degiskenler\obj\Debug\degiskenler.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\C#\uygulamasolution\degiskenler\obj\Debug\degiskenler.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\C#\uygulamasolution\degiskenler\obj\Debug\degiskenler.exe
+C:\Users\DELL\Desktop\C#\uygulamasolution\degiskenler\obj\Debug\degiskenler.pdb

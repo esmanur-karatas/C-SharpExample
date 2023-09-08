@@ -1,0 +1,7 @@
+C:\Users\DELL\Desktop\C#\uygulamasolution\TupleVKİ\bin\Debug\TupleVKİ.exe.config
+C:\Users\DELL\Desktop\C#\uygulamasolution\TupleVKİ\bin\Debug\TupleVKİ.exe
+C:\Users\DELL\Desktop\C#\uygulamasolution\TupleVKİ\bin\Debug\TupleVKİ.pdb
+C:\Users\DELL\Desktop\C#\uygulamasolution\TupleVKİ\obj\Debug\TupleVKİ.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\C#\uygulamasolution\TupleVKİ\obj\Debug\TupleVKİ.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\C#\uygulamasolution\TupleVKİ\obj\Debug\TupleVKİ.exe
+C:\Users\DELL\Desktop\C#\uygulamasolution\TupleVKİ\obj\Debug\TupleVKİ.pdb

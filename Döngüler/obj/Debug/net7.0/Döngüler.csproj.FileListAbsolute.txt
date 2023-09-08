@@ -1,0 +1,14 @@
+C:\Users\DELL\Desktop\C#\uygulamasolution\Döngüler\bin\Debug\net7.0\Döngüler.exe
+C:\Users\DELL\Desktop\C#\uygulamasolution\Döngüler\bin\Debug\net7.0\Döngüler.deps.json
+C:\Users\DELL\Desktop\C#\uygulamasolution\Döngüler\bin\Debug\net7.0\Döngüler.runtimeconfig.json
+C:\Users\DELL\Desktop\C#\uygulamasolution\Döngüler\bin\Debug\net7.0\Döngüler.dll
+C:\Users\DELL\Desktop\C#\uygulamasolution\Döngüler\bin\Debug\net7.0\Döngüler.pdb
+C:\Users\DELL\Desktop\C#\uygulamasolution\Döngüler\obj\Debug\net7.0\Döngüler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\C#\uygulamasolution\Döngüler\obj\Debug\net7.0\Döngüler.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\C#\uygulamasolution\Döngüler\obj\Debug\net7.0\Döngüler.AssemblyInfo.cs
+C:\Users\DELL\Desktop\C#\uygulamasolution\Döngüler\obj\Debug\net7.0\Döngüler.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\C#\uygulamasolution\Döngüler\obj\Debug\net7.0\Döngüler.dll
+C:\Users\DELL\Desktop\C#\uygulamasolution\Döngüler\obj\Debug\net7.0\refint\Döngüler.dll
+C:\Users\DELL\Desktop\C#\uygulamasolution\Döngüler\obj\Debug\net7.0\Döngüler.pdb
+C:\Users\DELL\Desktop\C#\uygulamasolution\Döngüler\obj\Debug\net7.0\Döngüler.genruntimeconfig.cache
+C:\Users\DELL\Desktop\C#\uygulamasolution\Döngüler\obj\Debug\net7.0\ref\Döngüler.dll

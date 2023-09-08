@@ -1,0 +1,14 @@
+C:\Users\DELL\Desktop\C#\uygulamasolution\Metotlar\bin\Debug\net7.0\Metotlar.exe
+C:\Users\DELL\Desktop\C#\uygulamasolution\Metotlar\bin\Debug\net7.0\Metotlar.deps.json
+C:\Users\DELL\Desktop\C#\uygulamasolution\Metotlar\bin\Debug\net7.0\Metotlar.runtimeconfig.json
+C:\Users\DELL\Desktop\C#\uygulamasolution\Metotlar\bin\Debug\net7.0\Metotlar.dll
+C:\Users\DELL\Desktop\C#\uygulamasolution\Metotlar\bin\Debug\net7.0\Metotlar.pdb
+C:\Users\DELL\Desktop\C#\uygulamasolution\Metotlar\obj\Debug\net7.0\Metotlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\C#\uygulamasolution\Metotlar\obj\Debug\net7.0\Metotlar.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\C#\uygulamasolution\Metotlar\obj\Debug\net7.0\Metotlar.AssemblyInfo.cs
+C:\Users\DELL\Desktop\C#\uygulamasolution\Metotlar\obj\Debug\net7.0\Metotlar.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\C#\uygulamasolution\Metotlar\obj\Debug\net7.0\Metotlar.dll
+C:\Users\DELL\Desktop\C#\uygulamasolution\Metotlar\obj\Debug\net7.0\refint\Metotlar.dll
+C:\Users\DELL\Desktop\C#\uygulamasolution\Metotlar\obj\Debug\net7.0\Metotlar.pdb
+C:\Users\DELL\Desktop\C#\uygulamasolution\Metotlar\obj\Debug\net7.0\Metotlar.genruntimeconfig.cache
+C:\Users\DELL\Desktop\C#\uygulamasolution\Metotlar\obj\Debug\net7.0\ref\Metotlar.dll

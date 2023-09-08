@@ -1,0 +1,7 @@
+C:\Users\DELL\Desktop\C#\uygulamasolution\kalitim\bin\Debug\kalitim.exe.config
+C:\Users\DELL\Desktop\C#\uygulamasolution\kalitim\bin\Debug\kalitim.exe
+C:\Users\DELL\Desktop\C#\uygulamasolution\kalitim\bin\Debug\kalitim.pdb
+C:\Users\DELL\Desktop\C#\uygulamasolution\kalitim\obj\Debug\kalitim.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\C#\uygulamasolution\kalitim\obj\Debug\kalitim.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\C#\uygulamasolution\kalitim\obj\Debug\kalitim.exe
+C:\Users\DELL\Desktop\C#\uygulamasolution\kalitim\obj\Debug\kalitim.pdb

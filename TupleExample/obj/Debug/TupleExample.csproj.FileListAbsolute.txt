@@ -1,0 +1,7 @@
+C:\Users\DELL\Desktop\C#\uygulamasolution\TupleExample\bin\Debug\TupleExample.exe.config
+C:\Users\DELL\Desktop\C#\uygulamasolution\TupleExample\bin\Debug\TupleExample.exe
+C:\Users\DELL\Desktop\C#\uygulamasolution\TupleExample\bin\Debug\TupleExample.pdb
+C:\Users\DELL\Desktop\C#\uygulamasolution\TupleExample\obj\Debug\TupleExample.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\C#\uygulamasolution\TupleExample\obj\Debug\TupleExample.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\C#\uygulamasolution\TupleExample\obj\Debug\TupleExample.exe
+C:\Users\DELL\Desktop\C#\uygulamasolution\TupleExample\obj\Debug\TupleExample.pdb

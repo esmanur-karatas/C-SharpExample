@@ -1,0 +1,14 @@
+C:\Users\DELL\Desktop\C#\uygulamasolution\OopGiris\bin\Debug\net7.0\OopGiris.exe
+C:\Users\DELL\Desktop\C#\uygulamasolution\OopGiris\bin\Debug\net7.0\OopGiris.deps.json
+C:\Users\DELL\Desktop\C#\uygulamasolution\OopGiris\bin\Debug\net7.0\OopGiris.runtimeconfig.json
+C:\Users\DELL\Desktop\C#\uygulamasolution\OopGiris\bin\Debug\net7.0\OopGiris.dll
+C:\Users\DELL\Desktop\C#\uygulamasolution\OopGiris\bin\Debug\net7.0\OopGiris.pdb
+C:\Users\DELL\Desktop\C#\uygulamasolution\OopGiris\obj\Debug\net7.0\OopGiris.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\C#\uygulamasolution\OopGiris\obj\Debug\net7.0\OopGiris.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\C#\uygulamasolution\OopGiris\obj\Debug\net7.0\OopGiris.AssemblyInfo.cs
+C:\Users\DELL\Desktop\C#\uygulamasolution\OopGiris\obj\Debug\net7.0\OopGiris.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\C#\uygulamasolution\OopGiris\obj\Debug\net7.0\OopGiris.dll
+C:\Users\DELL\Desktop\C#\uygulamasolution\OopGiris\obj\Debug\net7.0\refint\OopGiris.dll
+C:\Users\DELL\Desktop\C#\uygulamasolution\OopGiris\obj\Debug\net7.0\OopGiris.pdb
+C:\Users\DELL\Desktop\C#\uygulamasolution\OopGiris\obj\Debug\net7.0\OopGiris.genruntimeconfig.cache
+C:\Users\DELL\Desktop\C#\uygulamasolution\OopGiris\obj\Debug\net7.0\ref\OopGiris.dll

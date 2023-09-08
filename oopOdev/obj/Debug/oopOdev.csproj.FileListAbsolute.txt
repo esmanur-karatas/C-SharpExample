@@ -1,0 +1,7 @@
+C:\Users\DELL\Desktop\C#\uygulamasolution\oopOdev\obj\Debug\oopOdev.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\C#\uygulamasolution\oopOdev\obj\Debug\oopOdev.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\C#\uygulamasolution\oopOdev\bin\Debug\oopOdev.exe.config
+C:\Users\DELL\Desktop\C#\uygulamasolution\oopOdev\bin\Debug\oopOdev.exe
+C:\Users\DELL\Desktop\C#\uygulamasolution\oopOdev\bin\Debug\oopOdev.pdb
+C:\Users\DELL\Desktop\C#\uygulamasolution\oopOdev\obj\Debug\oopOdev.exe
+C:\Users\DELL\Desktop\C#\uygulamasolution\oopOdev\obj\Debug\oopOdev.pdb

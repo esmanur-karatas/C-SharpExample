@@ -1,0 +1,7 @@
+C:\Users\DELL\Desktop\C#\uygulamasolution\kapsulleme\bin\Debug\kapsulleme.exe.config
+C:\Users\DELL\Desktop\C#\uygulamasolution\kapsulleme\bin\Debug\kapsulleme.exe
+C:\Users\DELL\Desktop\C#\uygulamasolution\kapsulleme\bin\Debug\kapsulleme.pdb
+C:\Users\DELL\Desktop\C#\uygulamasolution\kapsulleme\obj\Debug\kapsulleme.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\C#\uygulamasolution\kapsulleme\obj\Debug\kapsulleme.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\C#\uygulamasolution\kapsulleme\obj\Debug\kapsulleme.exe
+C:\Users\DELL\Desktop\C#\uygulamasolution\kapsulleme\obj\Debug\kapsulleme.pdb
